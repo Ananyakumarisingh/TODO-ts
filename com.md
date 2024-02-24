@@ -22,21 +22,21 @@ npx tsc --init
 
 `Command for: ` 
 ```bash
-npx create-snowpack-app . --templete @snowpack/app-template-blank-typescript
+npx create-snowpack-app . --template @snowpack/app-template-blank-typescript
 ```
 
 `Command for: ` 
 ```bash
-
+npx create-snowpack-app . --template @snowpack/app-template-blank-typescript --force
 ```
 
 `Command for: ` 
 ```bash
-
+npm i uuid
 ```
 
 `Command for: ` 
 ```bash
-
+npm i --save-dev @types/uuid
 ```
 
